@@ -1,4 +1,4 @@
-## A to Z Backend
+## Cash-Flow
 
 ### Local Setup
 
@@ -17,7 +17,7 @@
 
 - Run Migratations `python manage.py migrate`
 
-## For Creataing Super User( if required)
+### For Creataing Super User( if required)
 - Create Super User `python manage.py createsuperuser`
     - Enter Username and Password and Create Super User
 
